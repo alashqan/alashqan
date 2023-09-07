@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Al Ashqan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Aspiring fullstack developer from India</h3>
 
 - 🌐 Web Developer | 🚀 Tech Enthusiast
 - 🎓 Final year Computer Science & Engineering at [SCEM](https://sahyadri.edu.in/)
