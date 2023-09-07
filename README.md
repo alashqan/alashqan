@@ -6,7 +6,7 @@
 - 🔭 Currently building web apps with MERN stack.
 - 👯 Open to collaborations on exciting projects.
 
-- 👨‍💻 Check out my personal Portfolio **[alashqan.netlify.app](https://www.alashqan.netlify.app)**
+- 👨‍💻 Check out my personal Portfolio **[alashqan.netlify.app](https://alashqan.netlify.app)**
 
 - ⚡ Fun fact **I enjoy TED Talks and gossip**
 
