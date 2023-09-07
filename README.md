@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm alashqan! 👋<br><br>🌐 Web Developer | 🚀 Tech Enthusiast<br><br>🔭 Currently building web apps with MERN stack.<br><br>🌱 Always learning, whether deepening my coding skills or exploring new web dev trends.<br><br>👯 Open to collaborations on exciting projects.<br><br>💬 Ask me about web dev, Java, C, Python, or MySQL databases.<br><br>📫 Reach me on [LinkedIn](https://www.linkedin.com/in/al-ashqan-babu/).<br><br>😄 Pronouns: He/Him | ⚡ Fun fact: I enjoy hiking and cooking.<br><br>Let's connect and code together! 🤝
+## Hi, I'm alashqan! 👋<br><br>🌐 Web Developer | 🚀 Tech Enthusiast<br><br>🔭 Currently building web apps with MERN stack.<br><br>🌱 Always learning, whether deepening my coding skills or exploring new web dev trends.<br><br>👯 Open to collaborations on exciting projects.<br><br>💬 Ask me about web dev, Java, C, Python, or MySQL databases.<br><br>📫 Reach me on [LinkedIn](https://www.linkedin.com/in/al-ashqan-babu/).<br><br>😄 Pronouns: He/Him | ⚡ Fun fact: I enjoy hiking and cooking.<br><br>Let's connect and code together! 🤝
 
 
 # 💻 Tech Stack:
