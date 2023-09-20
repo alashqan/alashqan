@@ -8,7 +8,7 @@
 
 - 👨‍💻 Check out my personal Portfolio **[alashqan.netlify.app](https://alashqan.netlify.app)**
 
-- ⚡ Fun fact **I enjoy TED Talks and gossip**
+- ⚡ Fun fact **I enjoy TED Talks**
 
 - 📫 How to reach me **alashqanbabu@gmail.com**
 
